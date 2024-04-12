@@ -31,6 +31,6 @@ para icones de tecnologias ⬆
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/danielegipsio/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/917551005892239371)<br>
 
-![snake gif](https://github.com/danielribeiro2557/danielribeiro2557/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DanielRibeiro2557/DanielRibeiro2557/blob/output/github-contribution-grid-snake.gif)
 <!--https://github.com/Ileriayo/markdown-badges
 para icones ⬆-->
